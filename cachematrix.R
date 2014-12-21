@@ -1,6 +1,6 @@
 ## Create a special matrix-based object that caches its inverse
 
-## Create a special "matrix", which is really a list of functions
+## Create a special "matrix" object, which is really a list of functions
 ## for caching (storing) and retrieving a matrix and its inverse - namely
 ## 1. set - store a matrix
 ## 2. get - retrieve the stored matrix
